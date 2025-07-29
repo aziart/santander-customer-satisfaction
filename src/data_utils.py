@@ -2,12 +2,13 @@ import sys
 import os
 # Add the parent directory to the Python path
 sys.path.append(os.path.abspath('..'))
-from classes import Paths
+from classes import Paths, MyLoggerSetup
 import pandas as pd
 import logging
 
 paths= Paths()
 logging_path = paths.get_log_path("01_eda.log")
+
 
 # Logging configuration
 logging.basicConfig(
@@ -15,6 +16,14 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
+
+def setup_logging():
+    """
+    Sets up the logging configuration.
+    """
+    MyLoggerSetup.trim_log_file(logging_path, max_lines=20)
+    logging.info("Logging setup complete.")
+    
 
 def load_data(path: str) -> pd.DataFrame:
     """

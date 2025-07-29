@@ -1,3 +1,7 @@
+import logging
+import os
+
+
 class Paths:
     """
     A class to hold paths for the project.
@@ -32,3 +36,18 @@ class Paths:
     @classmethod
     def get_src_path(cls, filename: str) -> str:
         return f"{cls.SRC_DIR}/{filename}"
+
+
+class MyLoggerSetup:
+    """ A class to set up logging for the project.
+    """
+    @classmethod
+    def trim_log_file(cls, filepath, max_lines=20):
+        if not os.path.exists(filepath):
+            logging.warning(f"Log file {filepath} does not exist.")
+            return
+        with open(filepath, 'r') as f:
+            lines = f.readlines()
+        if len(lines) > max_lines:
+            with open(filepath, 'w') as f:
+                f.writelines(lines[-max_lines:])  # keep only last N lines
