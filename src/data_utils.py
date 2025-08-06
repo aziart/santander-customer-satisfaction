@@ -7,12 +7,12 @@ import pandas as pd
 import logging
 
 paths= Paths()
-logging_path = paths.get_log_path("01_basic_preprocessing.log")
+logging_path = paths.get_log_path("01_data_basic_preprocessing.log")
 
 
 # Logging configuration
 logging.basicConfig(
-    filename=logging_path, #'01_basic_preprocessing.log',
+    filename=logging_path, #'01_data_basic_preprocessing.log',
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
