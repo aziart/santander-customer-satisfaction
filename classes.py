@@ -7,6 +7,7 @@ class Paths:
     A class to hold paths for the project.
     """
     RAW_DATA_DIR = "../data/raw"
+    INTERIM_DATA_DIR = "../data/interim"
     PROCESSED_DATA_DIR = "../data/processed"
     MODELS_DIR = "../models"
     LOGS_DIR = "../logs"
@@ -18,8 +19,8 @@ class Paths:
         return f"{cls.RAW_DATA_DIR}/{filename}"
 
     @classmethod
-    def get_processed_data_path(cls, filename: str) -> str:
-        return f"{cls.PROCESSED_DATA_DIR}/{filename}"
+    def get_interim_data_path(cls, filename: str) -> str:
+        return f"{cls.INTERIM_DATA_DIR}/{filename}"
 
     @classmethod
     def get_model_path(cls, filename: str) -> str:

@@ -1,0 +1,23 @@
+2025-08-23 22:31:11,614 - INFO - Logging setup complete.
+2025-08-23 22:48:48,906 - INFO - Logging setup complete.
+2025-08-23 22:49:04,641 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 185)
+2025-08-23 22:49:04,935 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 184)
+2025-08-23 22:49:41,314 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-23 22:49:41,383 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-23 22:49:41,422 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-23 22:49:41,459 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-23 22:49:41,493 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-23 22:49:41,530 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-23 22:49:41,567 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-23 22:49:48,624 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-24 22:36:54,982 - INFO - Logging setup complete.
+2025-08-24 22:36:55,299 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 185)
+2025-08-24 22:36:55,637 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 184)
+2025-08-24 22:36:55,676 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-24 22:36:55,715 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-24 22:36:55,749 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-24 22:36:55,782 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-24 22:36:55,816 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-24 22:36:55,850 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-24 22:36:55,884 - INFO - Finding categorical candidates in the DataFrame.
+2025-08-24 22:36:55,924 - INFO - Finding categorical candidates in the DataFrame.
