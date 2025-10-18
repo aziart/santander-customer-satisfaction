@@ -1,179 +1,3 @@
-2025-10-14 22:32:36,365 - INFO - Column         saldo_medio_var8_hace3:    56 outliers detected (0.07% of data) using     3sigma method
-2025-10-14 22:32:36,365 - INFO - Column        saldo_medio_var33_hace2:    37 outliers detected (0.05% of data) using     3sigma method
-2025-10-14 22:32:36,366 - INFO - Column                    saldo_var33:    38 outliers detected (0.05% of data) using     3sigma method
-2025-10-14 22:32:36,366 - INFO - Column         saldo_medio_var17_ult3:    36 outliers detected (0.05% of data) using     3sigma method
-2025-10-14 22:32:36,367 - INFO - Column  saldo_medio_var13_largo_hace2:   366 outliers detected (0.48% of data) using     3sigma method
-2025-10-14 22:32:36,368 - INFO - Column              num_op_var40_ult1:   173 outliers detected (0.23% of data) using     3sigma method
-2025-10-14 22:32:36,369 - INFO - Column        saldo_medio_var12_hace2:   883 outliers detected (1.16% of data) using     3sigma method
-2025-10-14 22:32:36,370 - INFO - Column           imp_trans_var37_ult1:   458 outliers detected (0.60% of data) using     3sigma method
-2025-10-14 22:32:36,372 - INFO - Column        num_op_var39_comer_ult1:  1706 outliers detected (2.24% of data) using     3sigma method
-2025-10-14 22:32:36,374 - INFO - Column                num_var45_hace3:  1556 outliers detected (2.05% of data) using     3sigma method
-2025-10-14 22:32:36,376 - INFO - Column                    saldo_var25:   904 outliers detected (1.19% of data) using     3sigma method
-2025-10-14 22:32:36,377 - INFO - Column                    saldo_var20:    32 outliers detected (0.04% of data) using     3sigma method
-2025-10-14 22:32:36,379 - INFO - Column              num_op_var41_ult1:  1853 outliers detected (2.44% of data) using     3sigma method
-2025-10-14 22:32:36,380 - INFO - Column                    saldo_var37:   434 outliers detected (0.57% of data) using     3sigma method
-2025-10-14 22:32:36,381 - INFO - Column                    saldo_var24:  1116 outliers detected (1.47% of data) using     3sigma method
-2025-10-14 22:32:36,383 - INFO - Column   saldo_medio_var13_corto_ult1:  1371 outliers detected (1.80% of data) using     3sigma method
-2025-10-14 22:32:36,383 - INFO - Column          saldo_medio_var8_ult3:   310 outliers detected (0.41% of data) using     3sigma method
-2025-10-14 22:32:36,384 - INFO - Column  saldo_medio_var13_largo_hace3:   171 outliers detected (0.22% of data) using     3sigma method
-2025-10-14 22:32:36,385 - INFO - Column         saldo_medio_var5_hace3:   567 outliers detected (0.75% of data) using     3sigma method
-2025-10-14 22:32:36,387 - INFO - Column        num_op_var41_efect_ult3:  1667 outliers detected (2.19% of data) using     3sigma method
-2025-10-14 22:32:36,387 - INFO - Column                     saldo_var8:   333 outliers detected (0.44% of data) using     3sigma method
-2025-10-14 22:32:36,390 - INFO - Column                    saldo_var30:  1670 outliers detected (2.20% of data) using     3sigma method
-2025-10-14 22:32:36,391 - INFO - Column             num_op_var41_hace2:  1673 outliers detected (2.20% of data) using     3sigma method
-2025-10-14 22:32:36,393 - INFO - Column  saldo_medio_var13_corto_hace2:  1190 outliers detected (1.57% of data) using     3sigma method
-2025-10-14 22:32:36,394 - INFO - Column        imp_op_var41_efect_ult3:   579 outliers detected (0.76% of data) using     3sigma method
-2025-10-14 22:32:36,395 - INFO - Column          saldo_medio_var5_ult3:   665 outliers detected (0.87% of data) using     3sigma method
-2025-10-14 22:32:36,395 - INFO - Column           imp_venta_var44_ult1:    15 outliers detected (0.02% of data) using     3sigma method
-2025-10-14 22:32:36,396 - INFO - Column                    saldo_var14:    98 outliers detected (0.13% of data) using     3sigma method
-2025-10-14 22:32:36,397 - INFO - Column          imp_aport_var13_hace3:   953 outliers detected (1.25% of data) using     3sigma method
-2025-10-14 22:32:36,398 - INFO - Column            imp_var7_recib_ult1:    59 outliers detected (0.08% of data) using     3sigma method
-2025-10-14 22:32:36,398 - INFO - Column   saldo_medio_var13_largo_ult1:   409 outliers detected (0.54% of data) using     3sigma method
-2025-10-14 22:32:36,399 - INFO - Column                    saldo_var40:   199 outliers detected (0.26% of data) using     3sigma method
-2025-10-14 22:32:36,400 - INFO - Column         saldo_medio_var5_hace2:   763 outliers detected (1.00% of data) using     3sigma method
-2025-10-14 22:32:36,402 - INFO - Column              num_op_var39_ult3:  1776 outliers detected (2.34% of data) using     3sigma method
-2025-10-14 22:32:36,403 - INFO - Column           imp_aport_var13_ult1:   308 outliers detected (0.41% of data) using     3sigma method
-2025-10-14 22:32:36,403 - INFO - Column                    saldo_var44:    69 outliers detected (0.09% of data) using     3sigma method
-2025-10-14 22:32:36,405 - INFO - Column        imp_op_var39_comer_ult1:  1416 outliers detected (1.86% of data) using     3sigma method
-2025-10-14 22:32:36,406 - INFO - Column                     saldo_var5:   450 outliers detected (0.59% of data) using     3sigma method
-2025-10-14 22:32:36,407 - INFO - Column                num_var45_hace2:  1383 outliers detected (1.82% of data) using     3sigma method
-2025-10-14 22:32:36,409 - INFO - Column        num_op_var39_comer_ult3:  1467 outliers detected (1.93% of data) using     3sigma method
-2025-10-14 22:32:36,410 - INFO - Column        imp_op_var41_comer_ult3:  1459 outliers detected (1.92% of data) using     3sigma method
-2025-10-14 22:32:36,411 - INFO - Column          saldo_medio_var5_ult1:   546 outliers detected (0.72% of data) using     3sigma method
-2025-10-14 22:32:36,412 - INFO - Column            imp_var43_emit_ult1:   311 outliers detected (0.41% of data) using     3sigma method
-2025-10-14 22:32:36,413 - INFO - Column              imp_op_var39_ult1:  1082 outliers detected (1.42% of data) using     3sigma method
-2025-10-14 22:32:36,414 - INFO - Column        num_op_var40_comer_ult3:   177 outliers detected (0.23% of data) using     3sigma method
-2025-10-14 22:32:36,415 - INFO - Column             num_med_var45_ult3:  1401 outliers detected (1.84% of data) using     3sigma method
-2025-10-14 22:32:36,416 - INFO - Column           imp_aport_var17_ult1:    31 outliers detected (0.04% of data) using     3sigma method
-2025-10-14 22:32:36,416 - INFO - Column        saldo_medio_var44_hace2:    60 outliers detected (0.08% of data) using     3sigma method
-2025-10-14 22:32:36,417 - INFO - Column              saldo_var13_largo:   572 outliers detected (0.75% of data) using     3sigma method
-2025-10-14 22:32:36,418 - INFO - Column         imp_compra_var44_hace3:    28 outliers detected (0.04% of data) using     3sigma method
-2025-10-14 22:32:36,419 - INFO - Column                 num_var45_ult1:  1406 outliers detected (1.85% of data) using     3sigma method
-2025-10-14 22:32:36,420 - INFO - Column        num_op_var40_comer_ult1:   179 outliers detected (0.24% of data) using     3sigma method
-2025-10-14 22:32:36,421 - INFO - Column  saldo_medio_var13_corto_hace3:   519 outliers detected (0.68% of data) using     3sigma method
-2025-10-14 22:32:36,421 - INFO - Column              imp_op_var40_ult1:   170 outliers detected (0.22% of data) using     3sigma method
-2025-10-14 22:32:36,422 - INFO - Column          saldo_medio_var8_ult1:   311 outliers detected (0.41% of data) using     3sigma method
-2025-10-14 22:32:36,422 - INFO - Column        saldo_medio_var44_hace3:    28 outliers detected (0.04% of data) using     3sigma method
-2025-10-14 22:32:36,424 - INFO - Column                    saldo_var13:  1495 outliers detected (1.97% of data) using     3sigma method
-2025-10-14 22:32:36,425 - INFO - Column           imp_reemb_var13_ult1:    35 outliers detected (0.05% of data) using     3sigma method
-2025-10-14 22:32:36,425 - INFO - Column             imp_sal_var16_ult1:    55 outliers detected (0.07% of data) using     3sigma method
-2025-10-14 22:32:36,427 - INFO - Column                 num_var22_ult3:  1478 outliers detected (1.94% of data) using     3sigma method
-2025-10-14 22:32:36,427 - INFO - Column        imp_op_var40_efect_ult3:    41 outliers detected (0.05% of data) using     3sigma method
-2025-10-14 22:32:36,428 - INFO - Column         saldo_medio_var44_ult1:    71 outliers detected (0.09% of data) using     3sigma method
-2025-10-14 22:32:36,429 - INFO - Column        imp_op_var40_comer_ult1:   200 outliers detected (0.26% of data) using     3sigma method
-2025-10-14 22:32:36,429 - INFO - Column             imp_ent_var16_ult1:   220 outliers detected (0.29% of data) using     3sigma method
-2025-10-14 22:32:36,430 - INFO - Column                          var38:   306 outliers detected (0.40% of data) using     3sigma method
-2025-10-14 22:32:36,437 - INFO - Column        imp_op_var41_efect_ult1:   753 outliers detected (0.99% of data) using     3sigma method
-2025-10-14 22:32:36,439 - INFO - Column           num_var43_recib_ult1:  1123 outliers detected (1.48% of data) using     3sigma method
-2025-10-14 22:32:36,440 - INFO - Column         saldo_medio_var8_hace2:   196 outliers detected (0.26% of data) using     3sigma method
-2025-10-14 22:32:36,440 - INFO - Column        imp_op_var40_comer_ult3:   234 outliers detected (0.31% of data) using     3sigma method
-2025-10-14 22:32:36,441 - INFO - Column                    saldo_var32:    79 outliers detected (0.10% of data) using     3sigma method
-2025-10-14 22:32:36,441 - INFO - Column                           var3:   116 outliers detected (0.15% of data) using     3sigma method
-2025-10-14 22:32:36,442 - INFO - Column                          var15:  1245 outliers detected (1.64% of data) using     3sigma method
-2025-10-14 22:32:36,443 - INFO - Column        saldo_medio_var12_hace3:   436 outliers detected (0.57% of data) using     3sigma method
-2025-10-14 22:32:36,444 - INFO - Column         saldo_medio_var8_hace3:    56 outliers detected (0.07% of data) using     3sigma method
-2025-10-14 22:32:36,444 - INFO - Column        saldo_medio_var33_hace2:    37 outliers detected (0.05% of data) using     3sigma method
-2025-10-14 22:32:36,445 - INFO - Column                    saldo_var33:    38 outliers detected (0.05% of data) using     3sigma method
-2025-10-14 22:32:36,445 - INFO - Column         saldo_medio_var17_ult3:    36 outliers detected (0.05% of data) using     3sigma method
-2025-10-14 22:32:36,446 - INFO - Column  saldo_medio_var13_largo_hace2:   366 outliers detected (0.48% of data) using     3sigma method
-2025-10-14 22:32:36,446 - INFO - Column              num_op_var40_ult1:   173 outliers detected (0.23% of data) using     3sigma method
-2025-10-14 22:32:36,448 - INFO - Column        saldo_medio_var12_hace2:   883 outliers detected (1.16% of data) using     3sigma method
-2025-10-14 22:32:36,448 - INFO - Column           imp_trans_var37_ult1:   458 outliers detected (0.60% of data) using     3sigma method
-2025-10-14 22:32:36,450 - INFO - Column        num_op_var39_comer_ult1:  1706 outliers detected (2.24% of data) using     3sigma method
-2025-10-14 22:32:36,452 - INFO - Column                num_var45_hace3:  1556 outliers detected (2.05% of data) using     3sigma method
-2025-10-14 22:32:36,453 - INFO - Column                    saldo_var25:   904 outliers detected (1.19% of data) using     3sigma method
-2025-10-14 22:32:36,454 - INFO - Column                    saldo_var20:    32 outliers detected (0.04% of data) using     3sigma method
-2025-10-14 22:32:36,455 - INFO - Column              num_op_var41_ult1:  1853 outliers detected (2.44% of data) using     3sigma method
-2025-10-14 22:32:36,456 - INFO - Column                    saldo_var37:   434 outliers detected (0.57% of data) using     3sigma method
-2025-10-14 22:32:36,458 - INFO - Column                    saldo_var24:  1116 outliers detected (1.47% of data) using     3sigma method
-2025-10-14 22:32:36,460 - INFO - Column   saldo_medio_var13_corto_ult1:  1371 outliers detected (1.80% of data) using     3sigma method
-2025-10-14 22:32:36,461 - INFO - Column          saldo_medio_var8_ult3:   310 outliers detected (0.41% of data) using     3sigma method
-2025-10-14 22:32:36,463 - INFO - Column  saldo_medio_var13_largo_hace3:   171 outliers detected (0.22% of data) using     3sigma method
-2025-10-14 22:32:36,470 - INFO - Column         saldo_medio_var5_hace3:   567 outliers detected (0.75% of data) using     3sigma method
-2025-10-14 22:32:36,474 - INFO - Column        num_op_var41_efect_ult3:  1667 outliers detected (2.19% of data) using     3sigma method
-2025-10-14 22:32:36,477 - INFO - Column                     saldo_var8:   333 outliers detected (0.44% of data) using     3sigma method
-2025-10-14 22:32:36,479 - INFO - Column                    saldo_var30:  1670 outliers detected (2.20% of data) using     3sigma method
-2025-10-14 22:32:36,483 - INFO - Column             num_op_var41_hace2:  1673 outliers detected (2.20% of data) using     3sigma method
-2025-10-14 22:32:36,486 - INFO - Column  saldo_medio_var13_corto_hace2:  1190 outliers detected (1.57% of data) using     3sigma method
-2025-10-14 22:32:36,487 - INFO - Column        imp_op_var41_efect_ult3:   579 outliers detected (0.76% of data) using     3sigma method
-2025-10-14 22:32:36,488 - INFO - Column          saldo_medio_var5_ult3:   665 outliers detected (0.87% of data) using     3sigma method
-2025-10-14 22:32:36,489 - INFO - Column           imp_venta_var44_ult1:    15 outliers detected (0.02% of data) using     3sigma method
-2025-10-14 22:32:36,489 - INFO - Column                    saldo_var14:    98 outliers detected (0.13% of data) using     3sigma method
-2025-10-14 22:32:36,492 - INFO - Column          imp_aport_var13_hace3:   953 outliers detected (1.25% of data) using     3sigma method
-2025-10-14 22:32:36,494 - INFO - Column            imp_var7_recib_ult1:    59 outliers detected (0.08% of data) using     3sigma method
-2025-10-14 22:32:36,495 - INFO - Column   saldo_medio_var13_largo_ult1:   409 outliers detected (0.54% of data) using     3sigma method
-2025-10-14 22:32:36,496 - INFO - Column                    saldo_var40:   199 outliers detected (0.26% of data) using     3sigma method
-2025-10-14 22:32:36,497 - INFO - Column         saldo_medio_var5_hace2:   763 outliers detected (1.00% of data) using     3sigma method
-2025-10-14 22:32:36,499 - INFO - Column              num_op_var39_ult3:  1776 outliers detected (2.34% of data) using     3sigma method
-2025-10-14 22:32:36,500 - INFO - Column           imp_aport_var13_ult1:   308 outliers detected (0.41% of data) using     3sigma method
-2025-10-14 22:32:36,500 - INFO - Column                    saldo_var44:    69 outliers detected (0.09% of data) using     3sigma method
-2025-10-14 22:32:36,502 - INFO - Column        imp_op_var39_comer_ult1:  1416 outliers detected (1.86% of data) using     3sigma method
-2025-10-14 22:32:36,503 - INFO - Column                     saldo_var5:   450 outliers detected (0.59% of data) using     3sigma method
-2025-10-14 22:32:36,504 - INFO - Column                num_var45_hace2:  1383 outliers detected (1.82% of data) using     3sigma method
-2025-10-14 22:32:36,505 - INFO - Column        num_op_var39_comer_ult3:  1467 outliers detected (1.93% of data) using     3sigma method
-2025-10-14 22:32:36,507 - INFO - Column        imp_op_var41_comer_ult3:  1459 outliers detected (1.92% of data) using     3sigma method
-2025-10-14 22:32:36,508 - INFO - Column          saldo_medio_var5_ult1:   546 outliers detected (0.72% of data) using     3sigma method
-2025-10-14 22:32:36,509 - INFO - Column            imp_var43_emit_ult1:   311 outliers detected (0.41% of data) using     3sigma method
-2025-10-14 22:32:36,510 - INFO - Column              imp_op_var39_ult1:  1082 outliers detected (1.42% of data) using     3sigma method
-2025-10-14 22:32:36,510 - INFO - Column        num_op_var40_comer_ult3:   177 outliers detected (0.23% of data) using     3sigma method
-2025-10-14 22:32:36,512 - INFO - Column             num_med_var45_ult3:  1401 outliers detected (1.84% of data) using     3sigma method
-2025-10-14 22:32:36,512 - INFO - Column           imp_aport_var17_ult1:    31 outliers detected (0.04% of data) using     3sigma method
-2025-10-14 22:32:36,513 - INFO - Column        saldo_medio_var44_hace2:    60 outliers detected (0.08% of data) using     3sigma method
-2025-10-14 22:32:36,514 - INFO - Column              saldo_var13_largo:   572 outliers detected (0.75% of data) using     3sigma method
-2025-10-14 22:32:36,514 - INFO - Column         imp_compra_var44_hace3:    28 outliers detected (0.04% of data) using     3sigma method
-2025-10-14 22:32:36,516 - INFO - Column                 num_var45_ult1:  1406 outliers detected (1.85% of data) using     3sigma method
-2025-10-14 22:32:36,516 - INFO - Column        num_op_var40_comer_ult1:   179 outliers detected (0.24% of data) using     3sigma method
-2025-10-14 22:32:36,517 - INFO - Column  saldo_medio_var13_corto_hace3:   519 outliers detected (0.68% of data) using     3sigma method
-2025-10-14 22:32:36,518 - INFO - Column              imp_op_var40_ult1:   170 outliers detected (0.22% of data) using     3sigma method
-2025-10-14 22:32:36,518 - INFO - Column          saldo_medio_var8_ult1:   311 outliers detected (0.41% of data) using     3sigma method
-2025-10-14 22:32:36,519 - INFO - Column        saldo_medio_var44_hace3:    28 outliers detected (0.04% of data) using     3sigma method
-2025-10-14 22:32:36,521 - INFO - Column                    saldo_var13:  1495 outliers detected (1.97% of data) using     3sigma method
-2025-10-14 22:32:36,521 - INFO - Column           imp_reemb_var13_ult1:    35 outliers detected (0.05% of data) using     3sigma method
-2025-10-14 22:32:36,522 - INFO - Column             imp_sal_var16_ult1:    55 outliers detected (0.07% of data) using     3sigma method
-2025-10-14 22:32:36,523 - INFO - Column                 num_var22_ult3:  1478 outliers detected (1.94% of data) using     3sigma method
-2025-10-14 22:32:36,524 - INFO - Column        imp_op_var40_efect_ult3:    41 outliers detected (0.05% of data) using     3sigma method
-2025-10-14 22:32:36,524 - INFO - Column         saldo_medio_var44_ult1:    71 outliers detected (0.09% of data) using     3sigma method
-2025-10-14 22:32:36,525 - INFO - Column        imp_op_var40_comer_ult1:   200 outliers detected (0.26% of data) using     3sigma method
-2025-10-14 22:32:36,525 - INFO - Column             imp_ent_var16_ult1:   220 outliers detected (0.29% of data) using     3sigma method
-2025-10-14 22:32:36,526 - INFO - Column                          var38:   306 outliers detected (0.40% of data) using     3sigma method
-2025-10-14 22:32:36,638 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-14 22:32:36,662 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:32,153 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:32,173 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:32,207 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:32,228 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:32,263 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:32,281 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:32,317 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:32,336 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:32,704 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:32,726 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:32,855 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:32,877 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:33,086 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:33,108 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:33,149 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:33,171 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:33,214 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:33,234 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:33,350 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:33,372 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:33,415 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:03:33,437 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:33,309 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:33,327 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:33,361 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:33,380 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:33,415 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:33,433 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:33,472 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:33,491 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:33,841 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:33,865 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:33,997 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:34,019 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:34,229 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
-2025-10-15 03:04:34,251 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2025-10-15 03:04:34,308 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2025-10-15 03:04:34,340 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2025-10-15 03:04:34,406 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
@@ -373,3 +197,179 @@
 2025-10-17 23:56:59,957 - INFO - Column                          var38:   306 outliers detected (0.40% of data) using     3sigma method
 2025-10-17 23:57:00,050 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2025-10-17 23:57:00,074 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-10-19 03:51:56,663 - INFO - Logging setup complete.
+2025-10-19 04:01:49,163 - INFO - Logging setup complete.
+2025-10-19 04:01:50,319 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 185)
+2025-10-19 04:01:50,588 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 184)
+2025-10-19 04:01:50,626 - INFO - Finding categorical candidates in the DataFrame.
+2025-10-19 04:01:50,626 - INFO - Threshold adjusted to 0.03% based on max_unique_values=20 and n_rows=76020
+2025-10-19 04:01:50,665 - INFO - Found 102 potential categorical candidates.
+2025-10-19 04:01:50,665 - INFO - Finding categorical candidates in the DataFrame.
+2025-10-19 04:01:50,665 - INFO - Threshold adjusted to 0.03% based on max_unique_values=25 and n_rows=76020
+2025-10-19 04:01:50,699 - INFO - Found 109 potential categorical candidates.
+2025-10-19 04:01:50,699 - INFO - Finding categorical candidates in the DataFrame.
+2025-10-19 04:01:50,699 - INFO - Threshold adjusted to 0.04% based on max_unique_values=27 and n_rows=76020
+2025-10-19 04:01:50,732 - INFO - Found 111 potential categorical candidates.
+2025-10-19 04:01:50,733 - INFO - Finding categorical candidates in the DataFrame.
+2025-10-19 04:01:50,733 - INFO - Threshold adjusted to 0.04% based on max_unique_values=30 and n_rows=76020
+2025-10-19 04:01:50,766 - INFO - Found 113 potential categorical candidates.
+2025-10-19 04:01:50,766 - INFO - Finding categorical candidates in the DataFrame.
+2025-10-19 04:01:50,766 - INFO - Threshold adjusted to 0.05% based on max_unique_values=40 and n_rows=76020
+2025-10-19 04:01:50,800 - INFO - Found 120 potential categorical candidates.
+2025-10-19 04:01:50,800 - INFO - Finding categorical candidates in the DataFrame.
+2025-10-19 04:01:50,801 - INFO - Threshold adjusted to 0.07% based on max_unique_values=50 and n_rows=76020
+2025-10-19 04:01:50,834 - INFO - Found 125 potential categorical candidates.
+2025-10-19 04:01:50,834 - INFO - Finding categorical candidates in the DataFrame.
+2025-10-19 04:01:50,834 - INFO - Threshold adjusted to 0.08% based on max_unique_values=60 and n_rows=76020
+2025-10-19 04:01:50,868 - INFO - Found 126 potential categorical candidates.
+2025-10-19 04:01:50,871 - INFO - Finding categorical candidates in the DataFrame.
+2025-10-19 04:01:50,871 - INFO - Threshold adjusted to 0.04% based on max_unique_values=27 and n_rows=76020
+2025-10-19 04:01:50,906 - INFO - Found 111 potential categorical candidates.
+2025-10-19 04:01:50,966 - INFO - Column        imp_op_var41_efect_ult1:   753 outliers detected (0.99% of data) using     3sigma method
+2025-10-19 04:01:50,970 - INFO - Column           num_var43_recib_ult1:  1123 outliers detected (1.48% of data) using     3sigma method
+2025-10-19 04:01:50,973 - INFO - Column         saldo_medio_var8_hace2:   196 outliers detected (0.26% of data) using     3sigma method
+2025-10-19 04:01:50,975 - INFO - Column        imp_op_var40_comer_ult3:   234 outliers detected (0.31% of data) using     3sigma method
+2025-10-19 04:01:50,976 - INFO - Column                    saldo_var32:    79 outliers detected (0.10% of data) using     3sigma method
+2025-10-19 04:01:50,977 - INFO - Column                           var3:   116 outliers detected (0.15% of data) using     3sigma method
+2025-10-19 04:01:50,978 - INFO - Column                          var15:  1245 outliers detected (1.64% of data) using     3sigma method
+2025-10-19 04:01:50,979 - INFO - Column        saldo_medio_var12_hace3:   436 outliers detected (0.57% of data) using     3sigma method
+2025-10-19 04:01:50,980 - INFO - Column         saldo_medio_var8_hace3:    56 outliers detected (0.07% of data) using     3sigma method
+2025-10-19 04:01:50,982 - INFO - Column        saldo_medio_var33_hace2:    37 outliers detected (0.05% of data) using     3sigma method
+2025-10-19 04:01:50,984 - INFO - Column                    saldo_var33:    38 outliers detected (0.05% of data) using     3sigma method
+2025-10-19 04:01:50,986 - INFO - Column         saldo_medio_var17_ult3:    36 outliers detected (0.05% of data) using     3sigma method
+2025-10-19 04:01:50,988 - INFO - Column  saldo_medio_var13_largo_hace2:   366 outliers detected (0.48% of data) using     3sigma method
+2025-10-19 04:01:50,988 - INFO - Column              num_op_var40_ult1:   173 outliers detected (0.23% of data) using     3sigma method
+2025-10-19 04:01:50,990 - INFO - Column        saldo_medio_var12_hace2:   883 outliers detected (1.16% of data) using     3sigma method
+2025-10-19 04:01:50,990 - INFO - Column           imp_trans_var37_ult1:   458 outliers detected (0.60% of data) using     3sigma method
+2025-10-19 04:01:50,992 - INFO - Column        num_op_var39_comer_ult1:  1706 outliers detected (2.24% of data) using     3sigma method
+2025-10-19 04:01:50,994 - INFO - Column                num_var45_hace3:  1556 outliers detected (2.05% of data) using     3sigma method
+2025-10-19 04:01:50,995 - INFO - Column                    saldo_var25:   904 outliers detected (1.19% of data) using     3sigma method
+2025-10-19 04:01:50,996 - INFO - Column                    saldo_var20:    32 outliers detected (0.04% of data) using     3sigma method
+2025-10-19 04:01:50,998 - INFO - Column              num_op_var41_ult1:  1853 outliers detected (2.44% of data) using     3sigma method
+2025-10-19 04:01:50,999 - INFO - Column                    saldo_var37:   434 outliers detected (0.57% of data) using     3sigma method
+2025-10-19 04:01:51,001 - INFO - Column                    saldo_var24:  1116 outliers detected (1.47% of data) using     3sigma method
+2025-10-19 04:01:51,003 - INFO - Column   saldo_medio_var13_corto_ult1:  1371 outliers detected (1.80% of data) using     3sigma method
+2025-10-19 04:01:51,004 - INFO - Column          saldo_medio_var8_ult3:   310 outliers detected (0.41% of data) using     3sigma method
+2025-10-19 04:01:51,005 - INFO - Column  saldo_medio_var13_largo_hace3:   171 outliers detected (0.22% of data) using     3sigma method
+2025-10-19 04:01:51,006 - INFO - Column         saldo_medio_var5_hace3:   567 outliers detected (0.75% of data) using     3sigma method
+2025-10-19 04:01:51,008 - INFO - Column        num_op_var41_efect_ult3:  1667 outliers detected (2.19% of data) using     3sigma method
+2025-10-19 04:01:51,009 - INFO - Column                     saldo_var8:   333 outliers detected (0.44% of data) using     3sigma method
+2025-10-19 04:01:51,011 - INFO - Column                    saldo_var30:  1670 outliers detected (2.20% of data) using     3sigma method
+2025-10-19 04:01:51,013 - INFO - Column             num_op_var41_hace2:  1673 outliers detected (2.20% of data) using     3sigma method
+2025-10-19 04:01:51,014 - INFO - Column  saldo_medio_var13_corto_hace2:  1190 outliers detected (1.57% of data) using     3sigma method
+2025-10-19 04:01:51,016 - INFO - Column        imp_op_var41_efect_ult3:   579 outliers detected (0.76% of data) using     3sigma method
+2025-10-19 04:01:51,017 - INFO - Column          saldo_medio_var5_ult3:   665 outliers detected (0.87% of data) using     3sigma method
+2025-10-19 04:01:51,017 - INFO - Column           imp_venta_var44_ult1:    15 outliers detected (0.02% of data) using     3sigma method
+2025-10-19 04:01:51,018 - INFO - Column                    saldo_var14:    98 outliers detected (0.13% of data) using     3sigma method
+2025-10-19 04:01:51,019 - INFO - Column          imp_aport_var13_hace3:   953 outliers detected (1.25% of data) using     3sigma method
+2025-10-19 04:01:51,020 - INFO - Column            imp_var7_recib_ult1:    59 outliers detected (0.08% of data) using     3sigma method
+2025-10-19 04:01:51,021 - INFO - Column   saldo_medio_var13_largo_ult1:   409 outliers detected (0.54% of data) using     3sigma method
+2025-10-19 04:01:51,021 - INFO - Column                    saldo_var40:   199 outliers detected (0.26% of data) using     3sigma method
+2025-10-19 04:01:51,022 - INFO - Column         saldo_medio_var5_hace2:   763 outliers detected (1.00% of data) using     3sigma method
+2025-10-19 04:01:51,024 - INFO - Column              num_op_var39_ult3:  1776 outliers detected (2.34% of data) using     3sigma method
+2025-10-19 04:01:51,025 - INFO - Column           imp_aport_var13_ult1:   308 outliers detected (0.41% of data) using     3sigma method
+2025-10-19 04:01:51,026 - INFO - Column                    saldo_var44:    69 outliers detected (0.09% of data) using     3sigma method
+2025-10-19 04:01:51,027 - INFO - Column        imp_op_var39_comer_ult1:  1416 outliers detected (1.86% of data) using     3sigma method
+2025-10-19 04:01:51,029 - INFO - Column                     saldo_var5:   450 outliers detected (0.59% of data) using     3sigma method
+2025-10-19 04:01:51,030 - INFO - Column                num_var45_hace2:  1383 outliers detected (1.82% of data) using     3sigma method
+2025-10-19 04:01:51,032 - INFO - Column        num_op_var39_comer_ult3:  1467 outliers detected (1.93% of data) using     3sigma method
+2025-10-19 04:01:51,034 - INFO - Column        imp_op_var41_comer_ult3:  1459 outliers detected (1.92% of data) using     3sigma method
+2025-10-19 04:01:51,035 - INFO - Column          saldo_medio_var5_ult1:   546 outliers detected (0.72% of data) using     3sigma method
+2025-10-19 04:01:51,036 - INFO - Column            imp_var43_emit_ult1:   311 outliers detected (0.41% of data) using     3sigma method
+2025-10-19 04:01:51,038 - INFO - Column              imp_op_var39_ult1:  1082 outliers detected (1.42% of data) using     3sigma method
+2025-10-19 04:01:51,038 - INFO - Column        num_op_var40_comer_ult3:   177 outliers detected (0.23% of data) using     3sigma method
+2025-10-19 04:01:51,040 - INFO - Column             num_med_var45_ult3:  1401 outliers detected (1.84% of data) using     3sigma method
+2025-10-19 04:01:51,040 - INFO - Column           imp_aport_var17_ult1:    31 outliers detected (0.04% of data) using     3sigma method
+2025-10-19 04:01:51,041 - INFO - Column        saldo_medio_var44_hace2:    60 outliers detected (0.08% of data) using     3sigma method
+2025-10-19 04:01:51,042 - INFO - Column              saldo_var13_largo:   572 outliers detected (0.75% of data) using     3sigma method
+2025-10-19 04:01:51,042 - INFO - Column         imp_compra_var44_hace3:    28 outliers detected (0.04% of data) using     3sigma method
+2025-10-19 04:01:51,044 - INFO - Column                 num_var45_ult1:  1406 outliers detected (1.85% of data) using     3sigma method
+2025-10-19 04:01:51,045 - INFO - Column        num_op_var40_comer_ult1:   179 outliers detected (0.24% of data) using     3sigma method
+2025-10-19 04:01:51,045 - INFO - Column  saldo_medio_var13_corto_hace3:   519 outliers detected (0.68% of data) using     3sigma method
+2025-10-19 04:01:51,046 - INFO - Column              imp_op_var40_ult1:   170 outliers detected (0.22% of data) using     3sigma method
+2025-10-19 04:01:51,047 - INFO - Column          saldo_medio_var8_ult1:   311 outliers detected (0.41% of data) using     3sigma method
+2025-10-19 04:01:51,047 - INFO - Column        saldo_medio_var44_hace3:    28 outliers detected (0.04% of data) using     3sigma method
+2025-10-19 04:01:51,049 - INFO - Column                    saldo_var13:  1495 outliers detected (1.97% of data) using     3sigma method
+2025-10-19 04:01:51,050 - INFO - Column           imp_reemb_var13_ult1:    35 outliers detected (0.05% of data) using     3sigma method
+2025-10-19 04:01:51,050 - INFO - Column             imp_sal_var16_ult1:    55 outliers detected (0.07% of data) using     3sigma method
+2025-10-19 04:01:51,052 - INFO - Column                 num_var22_ult3:  1478 outliers detected (1.94% of data) using     3sigma method
+2025-10-19 04:01:51,053 - INFO - Column        imp_op_var40_efect_ult3:    41 outliers detected (0.05% of data) using     3sigma method
+2025-10-19 04:01:51,053 - INFO - Column         saldo_medio_var44_ult1:    71 outliers detected (0.09% of data) using     3sigma method
+2025-10-19 04:01:51,054 - INFO - Column        imp_op_var40_comer_ult1:   200 outliers detected (0.26% of data) using     3sigma method
+2025-10-19 04:01:51,054 - INFO - Column             imp_ent_var16_ult1:   220 outliers detected (0.29% of data) using     3sigma method
+2025-10-19 04:01:51,055 - INFO - Column                          var38:   306 outliers detected (0.40% of data) using     3sigma method
+2025-10-19 04:01:51,063 - INFO - Column        imp_op_var41_efect_ult1:   753 outliers detected (0.99% of data) using     3sigma method
+2025-10-19 04:01:51,064 - INFO - Column           num_var43_recib_ult1:  1123 outliers detected (1.48% of data) using     3sigma method
+2025-10-19 04:01:51,065 - INFO - Column         saldo_medio_var8_hace2:   196 outliers detected (0.26% of data) using     3sigma method
+2025-10-19 04:01:51,066 - INFO - Column        imp_op_var40_comer_ult3:   234 outliers detected (0.31% of data) using     3sigma method
+2025-10-19 04:01:51,066 - INFO - Column                    saldo_var32:    79 outliers detected (0.10% of data) using     3sigma method
+2025-10-19 04:01:51,067 - INFO - Column                           var3:   116 outliers detected (0.15% of data) using     3sigma method
+2025-10-19 04:01:51,068 - INFO - Column                          var15:  1245 outliers detected (1.64% of data) using     3sigma method
+2025-10-19 04:01:51,069 - INFO - Column        saldo_medio_var12_hace3:   436 outliers detected (0.57% of data) using     3sigma method
+2025-10-19 04:01:51,069 - INFO - Column         saldo_medio_var8_hace3:    56 outliers detected (0.07% of data) using     3sigma method
+2025-10-19 04:01:51,070 - INFO - Column        saldo_medio_var33_hace2:    37 outliers detected (0.05% of data) using     3sigma method
+2025-10-19 04:01:51,070 - INFO - Column                    saldo_var33:    38 outliers detected (0.05% of data) using     3sigma method
+2025-10-19 04:01:51,071 - INFO - Column         saldo_medio_var17_ult3:    36 outliers detected (0.05% of data) using     3sigma method
+2025-10-19 04:01:51,072 - INFO - Column  saldo_medio_var13_largo_hace2:   366 outliers detected (0.48% of data) using     3sigma method
+2025-10-19 04:01:51,072 - INFO - Column              num_op_var40_ult1:   173 outliers detected (0.23% of data) using     3sigma method
+2025-10-19 04:01:51,073 - INFO - Column        saldo_medio_var12_hace2:   883 outliers detected (1.16% of data) using     3sigma method
+2025-10-19 04:01:51,074 - INFO - Column           imp_trans_var37_ult1:   458 outliers detected (0.60% of data) using     3sigma method
+2025-10-19 04:01:51,076 - INFO - Column        num_op_var39_comer_ult1:  1706 outliers detected (2.24% of data) using     3sigma method
+2025-10-19 04:01:51,078 - INFO - Column                num_var45_hace3:  1556 outliers detected (2.05% of data) using     3sigma method
+2025-10-19 04:01:51,080 - INFO - Column                    saldo_var25:   904 outliers detected (1.19% of data) using     3sigma method
+2025-10-19 04:01:51,081 - INFO - Column                    saldo_var20:    32 outliers detected (0.04% of data) using     3sigma method
+2025-10-19 04:01:51,083 - INFO - Column              num_op_var41_ult1:  1853 outliers detected (2.44% of data) using     3sigma method
+2025-10-19 04:01:51,084 - INFO - Column                    saldo_var37:   434 outliers detected (0.57% of data) using     3sigma method
+2025-10-19 04:01:51,086 - INFO - Column                    saldo_var24:  1116 outliers detected (1.47% of data) using     3sigma method
+2025-10-19 04:01:51,087 - INFO - Column   saldo_medio_var13_corto_ult1:  1371 outliers detected (1.80% of data) using     3sigma method
+2025-10-19 04:01:51,088 - INFO - Column          saldo_medio_var8_ult3:   310 outliers detected (0.41% of data) using     3sigma method
+2025-10-19 04:01:51,089 - INFO - Column  saldo_medio_var13_largo_hace3:   171 outliers detected (0.22% of data) using     3sigma method
+2025-10-19 04:01:51,090 - INFO - Column         saldo_medio_var5_hace3:   567 outliers detected (0.75% of data) using     3sigma method
+2025-10-19 04:01:51,092 - INFO - Column        num_op_var41_efect_ult3:  1667 outliers detected (2.19% of data) using     3sigma method
+2025-10-19 04:01:51,093 - INFO - Column                     saldo_var8:   333 outliers detected (0.44% of data) using     3sigma method
+2025-10-19 04:01:51,096 - INFO - Column                    saldo_var30:  1670 outliers detected (2.20% of data) using     3sigma method
+2025-10-19 04:01:51,098 - INFO - Column             num_op_var41_hace2:  1673 outliers detected (2.20% of data) using     3sigma method
+2025-10-19 04:01:51,101 - INFO - Column  saldo_medio_var13_corto_hace2:  1190 outliers detected (1.57% of data) using     3sigma method
+2025-10-19 04:01:51,102 - INFO - Column        imp_op_var41_efect_ult3:   579 outliers detected (0.76% of data) using     3sigma method
+2025-10-19 04:01:51,103 - INFO - Column          saldo_medio_var5_ult3:   665 outliers detected (0.87% of data) using     3sigma method
+2025-10-19 04:01:51,104 - INFO - Column           imp_venta_var44_ult1:    15 outliers detected (0.02% of data) using     3sigma method
+2025-10-19 04:01:51,104 - INFO - Column                    saldo_var14:    98 outliers detected (0.13% of data) using     3sigma method
+2025-10-19 04:01:51,105 - INFO - Column          imp_aport_var13_hace3:   953 outliers detected (1.25% of data) using     3sigma method
+2025-10-19 04:01:51,106 - INFO - Column            imp_var7_recib_ult1:    59 outliers detected (0.08% of data) using     3sigma method
+2025-10-19 04:01:51,107 - INFO - Column   saldo_medio_var13_largo_ult1:   409 outliers detected (0.54% of data) using     3sigma method
+2025-10-19 04:01:51,108 - INFO - Column                    saldo_var40:   199 outliers detected (0.26% of data) using     3sigma method
+2025-10-19 04:01:51,109 - INFO - Column         saldo_medio_var5_hace2:   763 outliers detected (1.00% of data) using     3sigma method
+2025-10-19 04:01:51,111 - INFO - Column              num_op_var39_ult3:  1776 outliers detected (2.34% of data) using     3sigma method
+2025-10-19 04:01:51,112 - INFO - Column           imp_aport_var13_ult1:   308 outliers detected (0.41% of data) using     3sigma method
+2025-10-19 04:01:51,113 - INFO - Column                    saldo_var44:    69 outliers detected (0.09% of data) using     3sigma method
+2025-10-19 04:01:51,114 - INFO - Column        imp_op_var39_comer_ult1:  1416 outliers detected (1.86% of data) using     3sigma method
+2025-10-19 04:01:51,116 - INFO - Column                     saldo_var5:   450 outliers detected (0.59% of data) using     3sigma method
+2025-10-19 04:01:51,117 - INFO - Column                num_var45_hace2:  1383 outliers detected (1.82% of data) using     3sigma method
+2025-10-19 04:01:51,119 - INFO - Column        num_op_var39_comer_ult3:  1467 outliers detected (1.93% of data) using     3sigma method
+2025-10-19 04:01:51,121 - INFO - Column        imp_op_var41_comer_ult3:  1459 outliers detected (1.92% of data) using     3sigma method
+2025-10-19 04:01:51,122 - INFO - Column          saldo_medio_var5_ult1:   546 outliers detected (0.72% of data) using     3sigma method
+2025-10-19 04:01:51,123 - INFO - Column            imp_var43_emit_ult1:   311 outliers detected (0.41% of data) using     3sigma method
+2025-10-19 04:01:51,124 - INFO - Column              imp_op_var39_ult1:  1082 outliers detected (1.42% of data) using     3sigma method
+2025-10-19 04:01:51,125 - INFO - Column        num_op_var40_comer_ult3:   177 outliers detected (0.23% of data) using     3sigma method
+2025-10-19 04:01:51,127 - INFO - Column             num_med_var45_ult3:  1401 outliers detected (1.84% of data) using     3sigma method
+2025-10-19 04:01:51,127 - INFO - Column           imp_aport_var17_ult1:    31 outliers detected (0.04% of data) using     3sigma method
+2025-10-19 04:01:51,128 - INFO - Column        saldo_medio_var44_hace2:    60 outliers detected (0.08% of data) using     3sigma method
+2025-10-19 04:01:51,129 - INFO - Column              saldo_var13_largo:   572 outliers detected (0.75% of data) using     3sigma method
+2025-10-19 04:01:51,129 - INFO - Column         imp_compra_var44_hace3:    28 outliers detected (0.04% of data) using     3sigma method
+2025-10-19 04:01:51,131 - INFO - Column                 num_var45_ult1:  1406 outliers detected (1.85% of data) using     3sigma method
+2025-10-19 04:01:51,132 - INFO - Column        num_op_var40_comer_ult1:   179 outliers detected (0.24% of data) using     3sigma method
+2025-10-19 04:01:51,133 - INFO - Column  saldo_medio_var13_corto_hace3:   519 outliers detected (0.68% of data) using     3sigma method
+2025-10-19 04:01:51,134 - INFO - Column              imp_op_var40_ult1:   170 outliers detected (0.22% of data) using     3sigma method
+2025-10-19 04:01:51,134 - INFO - Column          saldo_medio_var8_ult1:   311 outliers detected (0.41% of data) using     3sigma method
+2025-10-19 04:01:51,135 - INFO - Column        saldo_medio_var44_hace3:    28 outliers detected (0.04% of data) using     3sigma method
+2025-10-19 04:01:51,137 - INFO - Column                    saldo_var13:  1495 outliers detected (1.97% of data) using     3sigma method
+2025-10-19 04:01:51,137 - INFO - Column           imp_reemb_var13_ult1:    35 outliers detected (0.05% of data) using     3sigma method
+2025-10-19 04:01:51,138 - INFO - Column             imp_sal_var16_ult1:    55 outliers detected (0.07% of data) using     3sigma method
+2025-10-19 04:01:51,139 - INFO - Column                 num_var22_ult3:  1478 outliers detected (1.94% of data) using     3sigma method
+2025-10-19 04:01:51,140 - INFO - Column        imp_op_var40_efect_ult3:    41 outliers detected (0.05% of data) using     3sigma method
+2025-10-19 04:01:51,141 - INFO - Column         saldo_medio_var44_ult1:    71 outliers detected (0.09% of data) using     3sigma method
+2025-10-19 04:01:51,142 - INFO - Column        imp_op_var40_comer_ult1:   200 outliers detected (0.26% of data) using     3sigma method
+2025-10-19 04:01:51,142 - INFO - Column             imp_ent_var16_ult1:   220 outliers detected (0.29% of data) using     3sigma method
+2025-10-19 04:01:51,143 - INFO - Column                          var38:   306 outliers detected (0.40% of data) using     3sigma method
+2025-10-19 04:01:51,256 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-10-19 04:01:51,280 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.

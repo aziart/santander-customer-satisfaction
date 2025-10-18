@@ -229,3 +229,60 @@ class FeaturesUtils:
 
         has_outliers_indices = np.unique(has_outliers_indices)
         return dataframe.loc[has_outliers_indices]
+    
+    @staticmethod
+    def feature_usefulness_report(df, target_col, categorical_cols, skew_thresh=0.98):
+        """
+        Generates a report on the usefulness of categorical features based on heuristics.
+        """
+        results = []
+
+        for col in categorical_cols:
+            s = df[col]
+            n_unique = s.nunique(dropna=False)
+            value_counts = s.value_counts(dropna=False)
+            top_ratio = value_counts.iloc[0] / len(s)
+
+            # Target concentration per value
+            target_mean_by_value = df.groupby(col)[target_col].mean()
+            target_std = target_mean_by_value.std(ddof=0)
+            target_diff = target_mean_by_value.max() - target_mean_by_value.min()
+
+            # Heuristics
+            if n_unique == 1:
+                verdict = "drop"
+                reason = "constant feature"
+            elif top_ratio > skew_thresh:
+                if target_diff < 0.02:
+                    verdict = "drop"
+                    reason = f"super-skewed ({top_ratio:.2%} same value) with no target variation"
+                else:
+                    verdict = "maybe useful"
+                    reason = f"super-skewed ({top_ratio:.2%}) but small target difference ({target_diff:.2%})"
+            elif n_unique < 3:
+                if target_diff < 0.02:
+                    verdict = "drop"
+                    reason = f"only {n_unique} unique values and no target variation"
+                else:
+                    verdict = "keep"
+                    reason = f"binary/ternary variable with target difference ({target_diff:.2%})"
+            elif value_counts.iloc[1:].sum() < 0.01 * len(s):
+                verdict = "drop"
+                reason = f"rare categories dominate, only top value has coverage"
+            elif target_std < 0.001:
+                verdict = "drop"
+                reason = "no variation in target concentration across values"
+            else:
+                verdict = "keep"
+                reason = f"reasonable distribution (top value {top_ratio:.2%}), target difference {target_diff:.2%}"
+
+            results.append({
+                "feature": col,
+                "n_unique": n_unique,
+                "top_value_ratio": round(top_ratio, 4),
+                "target_diff": round(target_diff, 4),
+                "verdict": verdict,
+                "reason": reason
+            })
+
+        return pd.DataFrame(results).sort_values("verdict", ascending=True)
