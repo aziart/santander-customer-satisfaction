@@ -9,7 +9,8 @@ class Paths:
     RAW_DATA_DIR = "../data/raw"
     INTERIM_DATA_DIR = "../data/interim"
     PROCESSED_DATA_DIR = "../data/processed"
-    MODELS_DIR = "../models"
+    MODELS_DIR = "../src/models"
+    SUBS_DIR = "../src/subs"
     LOGS_DIR = "../logs"
     NOTEBOOKS_DIR = "../notebooks"
     SRC_DIR = "../src"
@@ -25,6 +26,10 @@ class Paths:
     @classmethod
     def get_model_path(cls, filename: str) -> str:
         return f"{cls.MODELS_DIR}/{filename}"
+
+    @classmethod
+    def get_subs_path(cls, filename: str) -> str:
+        return f"{cls.SUBS_DIR}/{filename}"
 
     @classmethod
     def get_log_path(cls, filename: str) -> str:

@@ -1,0 +1,24 @@
+2025-10-20 21:49:31,650 - INFO - Logging setup complete.
+2025-10-20 21:49:31,988 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 185)
+2025-10-20 21:49:32,235 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 184)
+2025-10-21 21:52:18,994 - INFO - Logging setup complete.
+2025-10-21 21:52:20,588 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 186)
+2025-10-21 21:52:20,847 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 185)
+2025-10-21 21:53:08,502 - INFO - Logging setup complete.
+2025-10-21 21:53:19,864 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 186)
+2025-10-21 21:53:20,114 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 185)
+2025-10-21 21:57:55,561 - INFO - Logging setup complete.
+2025-10-21 21:57:58,560 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 186)
+2025-10-21 21:57:58,811 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 185)
+2025-10-21 22:27:48,182 - INFO - Logging setup complete.
+2025-10-21 22:27:52,331 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 186)
+2025-10-21 22:27:52,614 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 185)
+2025-10-21 22:28:26,386 - INFO - Logging setup complete.
+2025-10-21 22:28:28,545 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 186)
+2025-10-21 22:28:28,786 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 185)
+2025-10-21 22:43:35,832 - INFO - Logging setup complete.
+2025-10-21 22:43:37,257 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 186)
+2025-10-21 22:43:37,513 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 185)
+2025-10-21 23:02:32,063 - INFO - Logging setup complete.
+2025-10-21 23:02:33,534 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 186)
+2025-10-21 23:02:33,804 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 185)
