@@ -1,0 +1,6 @@
+2025-10-23 21:23:49,637 - INFO - Logging setup complete.
+2025-10-23 21:23:51,146 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 186)
+2025-10-23 21:23:51,390 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 185)
+2025-10-23 21:49:40,282 - INFO - Logging setup complete.
+2025-10-23 21:49:41,667 - INFO - Loaded data from ../data/interim/train_cleaned.csv with shape (76020, 186)
+2025-10-23 21:49:41,915 - INFO - Loaded data from ../data/interim/test_cleaned.csv with shape (75818, 185)
